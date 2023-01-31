@@ -1,5 +1,10 @@
 # gestor-usuarios
 Creación de formulario simple con ReactJS usando componentes funcionales
+
+## Install dependencies
+Use 
+### `npm i`
+
 ## Available Scripts
 
 In the project directory, you can run:
